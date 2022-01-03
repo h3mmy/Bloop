@@ -6,3 +6,4 @@
 This repo is forked off of h3mmy/Quark. Quark has grown into a cloud specific k8s and feels like it will be on it's own trajectory. This one will make some zigs to Quarks' zags and be shaped for a cluster running on weaker janky hardware.
 
 
+Moved to: h3mmy/BloopySphere
